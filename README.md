@@ -8,6 +8,7 @@ To make sure you are comfortable with the framework we will be using, please rea
 
 ## What is Asynchronous Messaging 
 Asynchronous Messaging is a communication method where participants on both sides of the communication have the freedom to start, pause, and resume messaging on their own terms, eliminating the need to wait for a direct live connection (aka synchronous messages).
+
 Kafka is one of typical implementation as asynchronous messaging. Please refer to here to start https://kafka.apache.org/intro. 
 Activemq and RabbitMQ are similar implementation.  
 
@@ -18,10 +19,12 @@ Example: https://github.com/ewolff/microservice-kafka
 
 ### Virtual Communication 
 Asynchronous Messaging is also widely used for virtual communication. Customer does not need to wait for a customer representative and can work on their schedule and any of their client.  The backend service can work with AI and machine learning together to present required info to customer with asynchronous communication.  
+
 Example: ChatBot with Asynchronous Messaging:  https://www.freecodecamp.org/news/simple-chatops-with-kafka-grafana-prometheus-and-slack-764ece59e707/
 
 ### Streaming Processing
 Asynchronous Messaging is also used for streaming processing, which can connect multi data pipeline to process data asynchronously and generate interesting results. Please refer to https://github.com/confluentinc/kafka-streams-examples for more details. 
+
 Example:  http://www.infolace.com/blog/2016/07/14/simple-spatial-windowing-with-kafka-streams/
 
 # Completion of pre-req tasks
