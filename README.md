@@ -32,4 +32,4 @@ Once you have completed these tasks, make a pull request to this repository with
 
 firstname-lastname.md
 
-I've finished reading through the pre-req docs and finished one of the Oauth flow in the above mentioned playground.
+I've finished reading through the pre-req docs and finished one sample project with above link.
